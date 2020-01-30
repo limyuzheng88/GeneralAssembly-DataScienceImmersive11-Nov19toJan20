@@ -8,13 +8,13 @@ UCI Retail Dataset
 
 ## Business Problems:
 1. Customer segmentation: 
-How can we segment customers, into different clusters, so as to deliver tailored marketing strategies, so as to minimise promotional costs/retain loyal customers/raise revenue?
+How can we _**segment customers**_, into different clusters, so as to _**deliver tailored marketing strategies**_, so as to _**minimise promotional costs/retain loyal customers/raise revenue**_?
 
 2. Product Recommendation: 
-How can we also recommend specific products, to specific individuals, so as to raise revenue?
+How can we also _**recommend specific products**_, to specific individuals, so as to _**raise revenue**_?
 
 3. Continued customer engagement: 
-How can we FURTHER engage customers through email/promotion campaigns, so as to raise revenue?
+How can we FURTHER _**engage customers through email/promotion campaigns**_, so as to _**raise revenue**_?
 
 ## Conclusions & Recommendations:
 ### 1. Customer Segmentation:

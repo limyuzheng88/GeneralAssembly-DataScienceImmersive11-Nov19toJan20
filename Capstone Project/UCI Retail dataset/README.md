@@ -11,7 +11,7 @@ UCI Retail Dataset
 How can we _**segment customers**_, into different clusters, so as to _**deliver tailored marketing strategies**_, so as to _**minimise promotional costs/retain loyal customers/raise revenue**_?
 
 2. Product Recommendation: 
-How can we also _**recommend specific products**_, to specific individuals, so as to _**raise revenue**_?
+How can we also _**make personalised product recommendations**_, so as to _**raise revenue**_?
 
 3. Continued customer engagement: 
 How can we FURTHER _**engage customers through email/promotion campaigns**_, so as to _**raise revenue**_?

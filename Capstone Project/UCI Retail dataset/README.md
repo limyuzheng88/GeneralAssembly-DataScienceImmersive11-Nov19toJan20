@@ -1,5 +1,5 @@
 # Capstone Project: E-commerce end-to-end Marketing Strategy
-Project encompasses: Customer Segmentation, Recommendation System, Market Basket Analysis
+Project encompasses: Customer Segmentation, Personalised product recommendations, Email Marketing Campaign for continued customer engagement
 
 ## Dataset:
 UCI Retail Dataset

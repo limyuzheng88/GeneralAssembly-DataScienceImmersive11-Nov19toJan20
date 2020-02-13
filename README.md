@@ -1,1 +1,1 @@
-# General-Assembly-Data-Science-Immersive-11-Nov19-to-Jan20
+# GeneralAssembly-DataScienceImmersive11-Nov19toJan20

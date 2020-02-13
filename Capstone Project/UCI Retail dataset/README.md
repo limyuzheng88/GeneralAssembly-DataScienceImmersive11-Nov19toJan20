@@ -1,13 +1,15 @@
 # Capstone Project: E-commerce end-to-end Marketing Strategy
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...
 
-1. I segmented my customers into different clusters to deliver tailored marketing strategies, and created a marketing dashboard (on Tableau Public), to provide management with intuitive insights on how best to target each customer/customer cluster. 
-Dashboard here (expand to full screen for best experience): https://public.tableau.com/profile/lim.yu.zheng#!/vizhome/UCI-retail-recommenderMarketing-Dashboard/Story1?publish=yes
+1. I segmented my customers into different clusters (via Kmeans, RFM) to deliver tailored marketing strategies, and created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer cluster. 
 
-2. I then serve personalised product recommendations to my customers, on an e-commerce website that I created (on Heroku).
-Website here: http://uci-retail-recommender.herokuapp.com/
+  Dashboard here (expand full screen for best experience): https://public.tableau.com/profile/lim.yu.zheng#!/vizhome/UCI-retail-recommenderMarketing-Dashboard/Story1?publish=yes
 
-3. Finally, for continued customer engagement, I ran an email marketing campaign (with A/B testing), by sending marketing emails for complementary products. 
+2. I then serve personalised product recommendations (via Collaborative Filtering with implicit feedback; Market Basket Analysis) to my customers, on an e-commerce website that I created on Heroku.
+
+  Website here: http://uci-retail-recommender.herokuapp.com/
+
+3. Finally, for continued customer engagement, I ran an email marketing campaign with A/B testing, by sending marketing emails for complementary products (via Market Basket Analysis).  
 
 ## Dataset:
 UCI Retail Dataset

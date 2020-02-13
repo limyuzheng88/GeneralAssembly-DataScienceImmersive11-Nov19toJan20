@@ -9,7 +9,7 @@ Project encompasses: 1. Customer Segmentation, 2. Personalised product recommend
 
   Website here: http://uci-retail-recommender.herokuapp.com/
 
-3. Finally, for continued customer engagement, I ran an email marketing campaign with A/B testing, to enable the sending of marketing emails for complementary products (via Market Basket Analysis). 
+3. Finally, for continued customer engagement, I ran an email marketing campaign with A/B testing, to enable the sending of marketing emails for complementary products (via Market Basket Analysis), to targeted customer segments from step 1. 
 
 ## Dataset:
 UCI Retail Dataset

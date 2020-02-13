@@ -1,6 +1,6 @@
 # Capstone Project: End-to-End Marketing Strategy for E-commerce & Traditional Retail
 
-## Summary
+## Summary:
 
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...
 

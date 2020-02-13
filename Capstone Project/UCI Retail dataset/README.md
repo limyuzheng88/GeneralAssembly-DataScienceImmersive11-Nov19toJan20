@@ -1,5 +1,5 @@
 # Capstone Project: End-to-End Marketing Strategy for E-commerce & Traditional Retail
-In your business, would you like to raise revenue, and cut costs? Here, I offer an end-to-end marketing strategy to achieve that using Data Science, by sifting out high/low-value customers, offer personalised recommendations to them, and keeping them continually engaged.
+In your business, would you like to raise revenue, and cut costs? Here, I offer an end-to-end marketing strategy to achieve that using Data Science, by sifting out high/low-value customers, offering personalised recommendations to them, and keeping them continuously engaged.
 ## Summary:
 
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...

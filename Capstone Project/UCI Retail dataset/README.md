@@ -1,7 +1,7 @@
 # Capstone Project: E-commerce end-to-end Marketing Strategy
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...
 
-1. I segmented my customers into different clusters (via Kmeans, RFM) to deliver tailored marketing strategies, and created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer cluster. 
+1. I segmented my customers into different clusters (via Kmeans, RFM) to deliver tailored marketing strategies, and created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer segment. 
 
   Dashboard here (expand full screen for best experience): https://public.tableau.com/profile/lim.yu.zheng#!/vizhome/UCI-retail-recommenderMarketing-Dashboard/Story1?publish=yes
 

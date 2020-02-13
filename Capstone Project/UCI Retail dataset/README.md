@@ -1,4 +1,4 @@
-# Capstone Project: E-commerce end-to-end Marketing Strategy
+# Capstone Project: End-to-End Marketing Strategy for E-commerce & Traditional Retail
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...
 
 1. I segmented my customers into different clusters (via Kmeans, RFM) to deliver tailored marketing strategies. I created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer segment. 

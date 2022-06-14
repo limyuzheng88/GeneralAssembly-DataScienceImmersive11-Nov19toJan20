@@ -38,7 +38,7 @@ Best way to segment customers is via Kmeans (5 clusters, silhouette score 0.58).
 Marketing Dashboard, with marketing strategy for each cluster, and data visualisations for business analytics, has been deployed here (expand to full screen for best experience): https://public.tableau.com/profile/lim.yu.zheng#!/vizhome/UCI-retail-recommenderMarketing-Dashboard/Story1?publish=yes
 
 ### 2. Product Recommendation:
-Collaborative filtering using the LightFM library was used. Best model ('WARP' loss function, 200 latent features, 'adadelta' learning schedule) achieved mean precision @k=88% (& mean recall @k=51%, mean AUC=100%). 
+Collaborative filtering using the LightFM library was used. Best model ('WARP' loss function, 200 latent features, 'adadelta' learning schedule) achieved mean precision @k=10 is 88% (& mean recall @k=10 is 51%, mean AUC=100%). 
 
 **Deployment**
 

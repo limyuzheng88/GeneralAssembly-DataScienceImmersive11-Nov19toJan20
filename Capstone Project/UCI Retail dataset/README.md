@@ -4,7 +4,7 @@ In your business, would you like to raise revenue, and cut costs? Here, I offer 
 
 Project encompasses: 1. Customer Segmentation, 2. Personalised product recommendations, 3. Email Marketing Campaign for continued customer engagement, as described below...
 
-1. I segmented my customers into different clusters (via Kmeans, RFM) to deliver tailored marketing strategies. I created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer segment. 
+1. I segmented my customers into different clusters (via Kmeans, DB-scan, RFM) to deliver tailored marketing strategies. I created a marketing dashboard (on Tableau Public), to provide management with insights on business analytics, and to prescribe recommendations on how best to target each customer/customer segment. 
 
   Dashboard here (expand full screen for best experience): https://public.tableau.com/profile/lim.yu.zheng#!/vizhome/UCI-retail-recommenderMarketing-Dashboard/Story1?publish=yes
 
